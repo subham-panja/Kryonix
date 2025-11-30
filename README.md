@@ -1,7 +1,5 @@
 # Kryonix: Hyper-Advanced Python Serialization
 
-# Kryonix: Hyper-Advanced Python Serialization
-
 ## About Kryonix
 Kryonix is a high-performance, next-generation serialization framework built for the modern era of distributed computing and data-intensive applications. Unlike traditional serializers that trade off speed for size (or vice versa), Kryonix is designed to be **uncompromisingly efficient**.
 
